@@ -1,11 +1,11 @@
 
 import './App.css';
-import HeaderComponent from './Components/HeaderComponent';
+import CounterApp from './Components/CounterApp';
 
 function App() {
   return (
     <div className="App">
-      <HeaderComponent />
+      <CounterApp />
     </div>
   );
 }
