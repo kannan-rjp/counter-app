@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CheckNumber({numArr,title}) {
+export default function ListNumbers({numArr,title}) {
   return (
     <>
       <h3>{title}</h3>
